@@ -1,0 +1,11 @@
+/* Style the admin page */
+.wrap h1 {
+    color: #0073aa;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+button.button-primary {
+    background-color: #0073aa;
+    border-color: #0073aa;
+    color: white;
+}
