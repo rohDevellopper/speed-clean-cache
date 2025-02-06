@@ -8,6 +8,12 @@ A simple WordPress plugin to clean cache and optimize your website with a click 
 - Clear expired transients
 - Optimize the WordPress database
 
+## Screenshots:
+![Presentation](screenshots/screenshot1.png)
+
+![Settings Page](screenshots/screenshot2.png)
+_This screenshot shows the settings page of the plugin._
+
 ## Installation:
 
 1. Download the plugin files.
